@@ -1,0 +1,14 @@
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net7.0\FactoryDesignPattern.exe
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net7.0\FactoryDesignPattern.deps.json
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net7.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net7.0\FactoryDesignPattern.dll
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net7.0\FactoryDesignPattern.pdb
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.dll
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\refint\FactoryDesignPattern.dll
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.pdb
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Users\somnathghosh\source\repos\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net7.0\ref\FactoryDesignPattern.dll
